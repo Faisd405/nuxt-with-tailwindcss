@@ -8,6 +8,8 @@
       <nuxt-link :to="'/flex/flex-wrap'">Flex Wrap</nuxt-link>
       <nuxt-link :to="'/flex/justify-content'">Justify Content</nuxt-link>
       <nuxt-link :to="'/flex/align-item'">Align Item</nuxt-link>
+      <hr class="border my-2">
+      <nuxt-link :to="'/flex/latihan'">Latihan WPU</nuxt-link>
     </div>
   </aside>
 </template>
